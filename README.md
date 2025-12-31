@@ -19,6 +19,7 @@ A simple product catalog and shopping cart built with Next.js, demonstrating dyn
 
 ## 📂 Project Structure
 app/
+
 ├─ page.tsx  
 ├─ product/[id]/page.tsx  
 ├─ cart/page.tsx  
